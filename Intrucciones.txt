@@ -1,0 +1,9 @@
+INTERFAZ DE GRUPO 2
+-------------------
+El programa instala la interfaz y crea
+una base de datos llama DBProyecto
+por medio de un script
+
+el sistema tiene un usuario por defecto
+Id: admin
+contraseña: admin
